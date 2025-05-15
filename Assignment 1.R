@@ -1,4 +1,3 @@
-setwd("C:/Users/sammm/OneDrive/Desktop/R/Week 1 Assignment") #makes life easier
 read.csv("weather1.a") #zip file
 read.csv("weather2.b") #HTML
 read.csv("weather3.c") #1 saves as a zip file, 2 saves as HTML so it has to be 3 
